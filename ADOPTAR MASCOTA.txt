@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+   <script ssrc="js/funciones.js"></script>
+ <head>
+    <meta name="description"type=pagina de adopcion de mascotas en mexico, Nuclpan de Juarez>
+   <meta name =Keywords"typ=mascota,adopcion,Mexico,naucalpan, no maltrato animal, cuidar">
+   <meta name="Autor" =content="30 segundos"
+  <title>Inicio/ Adopta una mascota </title>
+</head>
+<body> 
+ <section ide "formulario"
+    <form ide ="formulario2>
+    <input type= "text" place houlder="username ide="caja1"/>
+      <input type= "pasword" place houlder="username ide="caja2"/>
+     <select>
+  <option value="gato">Gatos< \option>
+    <option value="perros">Perros< \option>
+
+<select\>
+<input tipe="number" min="1" max="10">
+     <button> Enviar <\button> 
+< \ form> 
+< \ select>
+< \ body>
+< \ html>
