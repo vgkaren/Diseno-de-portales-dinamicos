@@ -1,9 +1,0 @@
-<!doctype html/>
-<html>
-    <head>
-          <title> MI pagina web </title> 
-      </head>
-       <body>
-              <h1> Estructura basica</h1>
-       </body>
-</html>
